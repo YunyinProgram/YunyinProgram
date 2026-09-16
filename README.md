@@ -80,15 +80,15 @@ Full stack development following the MVC pattern, including user authentication,
 <table>
 <tr>
 <td width="40%">
-<img src="https://media1.tenor.com/m/YLlNpT32hkIAAAAd/natsuki-subaru-re-zero.gif" width="100%">
+<img src="https://media1.tenor.com/m/2wOUNJWptVgAAAAd/rezero-you-are-an-amazing-guy.gif" width="100%">
 </td>
 <td width="60%">
 **Re:Zero**
  
-*変わらない日常より、何度でも挑む物語が好きだ*
-<br><sub>"I prefer a story worth challenging again and again, over a life that never changes."</sub>
+*"You're an amazing guy, Subaru Natsuki."*
+<br><sub>— Rem</sub>
  
-A fitting mindset for debugging code until it finally works.
+One of the most quietly powerful lines in the series — a reminder that persistence, even when unnoticed, is still worth something.
  
 </td>
 </tr>
@@ -99,10 +99,10 @@ A fitting mindset for debugging code until it finally works.
 <td width="60%">
 **Mushoku Tensei**
  
-*人生は、何歳からでもやり直せる*
-<br><sub>"A life can be started over, no matter your age."</sub>
+*"Don't look back. If you look back, you'll stop moving forward."*
+<br><sub>— Rudeus Greyrat</sub>
  
-A quiet reminder that a fresh start is never wasted time.
+A mantra for second chances — in another world, or in a failed build that finally compiles.
  
 </td>
 </tr>
