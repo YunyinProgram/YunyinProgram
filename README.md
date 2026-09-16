@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mucho gusto me presenteo soy Manuel Fernando Joao Castro Picon
+# Nice to meet you, I am Manuel Fernando Joao Castro Picon
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&weight=600&size=22&duration=4000&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&height=90&lines=Software+Engineering+Student+%40+UPC;Full+Stack+Developer+%E2%80%94+Flutter+%2B+Spring+Boot;%E4%BD%95%E5%BA%A6%E3%81%A7%E3%82%82%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B%E3%81%B0%E3%81%84%E3%81%84;Lima%2C+Peru" alt="Typing SVG" />
 
@@ -13,7 +13,8 @@
 <table>
 <tr>
 <td width="40%">
-<img src="https://i.giphy.com/6UgdeaZ7tIPMQbLGkm.gif" width="100%">
+<img src="https://media1.tenor.com/m/Imb9Ta_m8ckAAAAd/subaru-re-zero-natsuki-subaru.gif" width="100%"><br>
+<img src="https://media1.tenor.com/m/dlwtKXRzJmoAAAAd/rudeus-greyrat-mushoku-tensei.gif" width="100%">
 </td>
 <td width="60%">
 
@@ -22,7 +23,10 @@ Fourth-year Software Engineering student at **Universidad Peruana de Ciencias Ap
 I am currently seeking a professional internship where I can grow within a real development team.
 
 *何度でも、やり直せばいい*
-<br><sub>"No matter how many times, I can simply start again."</sub>
+<br><sub>"No matter how many times, I can simply start again." — Subaru Natsuki, in spirit</sub>
+
+*無職から始まっても、経験は積み重なる*
+<br><sub>"Even starting from nothing, experience still builds up." — Rudeus Greyrat, in spirit</sub>
 
 </td>
 </tr>
@@ -79,22 +83,7 @@ Full stack development following the MVC pattern, including user authentication,
 <table>
 <tr>
 <td width="40%">
-<img src="https://i.giphy.com/oCCpckAY9mHtCHr81l.gif" width="100%">
-</td>
-<td width="60%">
-
-**Mushoku Tensei**
-
-*無職から始まっても、経験は積み重なる*
-<br><sub>"Even starting from nothing, experience still builds up."</sub>
-
-A story about turning a fresh start into steady, quiet growth — a page I try to take from it myself.
-
-</td>
-</tr>
-<tr>
-<td width="40%">
-<img src="https://i.giphy.com/uUn7jGW2FNeYWSF3EU.gif" width="100%">
+<img src="https://media1.tenor.com/m/YLlNpT32hkIAAAAd/natsuki-subaru-re-zero.gif" width="100%">
 </td>
 <td width="60%">
 
@@ -103,7 +92,22 @@ A story about turning a fresh start into steady, quiet growth — a page I try t
 *変わらない日常より、何度でも挑む物語が好きだ*
 <br><sub>"I prefer a story worth challenging again and again, over a life that never changes."</sub>
 
-Two of my favorite series, and a fitting mindset for debugging code until it finally works.
+A fitting mindset for debugging code until it finally works.
+
+</td>
+</tr>
+<tr>
+<td width="40%">
+<img src="https://media1.tenor.com/m/XXV9tc0jOu8AAAAd/mushoku-tensei-rudeus-greyrat.gif" width="100%">
+</td>
+<td width="60%">
+
+**Mushoku Tensei**
+
+*人生は、何歳からでもやり直せる*
+<br><sub>"A life can be started over, no matter your age."</sub>
+
+A quiet reminder that a fresh start is never wasted time.
 
 </td>
 </tr>
