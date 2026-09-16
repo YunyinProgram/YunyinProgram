@@ -37,30 +37,24 @@
  
 ## Tech Stack
  
-<sub><b>LANGUAGES</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs,html,css&theme=dark" />
- 
-<br><br>
- 
-<sub><b>FRAMEWORKS &amp; MOBILE</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,spring&theme=dark" />
- 
-<br><br>
- 
-<sub><b>DATABASES</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
- 
-<br><br>
- 
-<sub><b>CLOUD &amp; TOOLS</b></sub>
-<br>
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,idea&theme=dark" />
- 
-<br><br>
- 
+<table>
+<tr>
+<td align="right"><sub><b>Languages</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs,html,css&theme=dark" height="40"></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Frameworks &amp; Mobile</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,spring&theme=dark" height="40"></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Databases</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="40"></td>
+</tr>
+<tr>
+<td align="right"><sub><b>Cloud &amp; Tools</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=azure,git,github,vscode,idea&theme=dark" height="40"></td>
+</tr>
+</table>
 **Data & Analytics** &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Advanced Excel &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; Machine Learning (foundations)
  
 </div>
