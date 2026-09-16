@@ -39,10 +39,13 @@
  
 <table>
 <tr>
-<td width="15%" align="center">
-<img src="https://media1.tenor.com/m/Imb9Ta_m8ckAAAAd/subaru-re-zero-natsuki-subaru.gif" width="100%">
+<td align="center" valign="middle">
+<img src="https://camo.githubusercontent.com/5dd5f9161f24a14c109e7c0387b5186b199b222431f9b4ed8f144306d2c8c8ef/68747470733a2f2f692e67697068792e636f6d2f75556e376a475732464e65595753463345552e676966" width="160">
+<sub><i>諦めなければ、道は必ず開ける</i></sub>
+<br><sub>"As long as I don't give up, a way forward always opens."</sub>
+ 
 </td>
-<td width="70%">
+<td valign="middle">
 <table>
 <tr>
 <td align="right"><sub><b>Languages</b></sub></td>
@@ -61,9 +64,6 @@
 <td><img src="https://skillicons.dev/icons?i=azure,git,github,vscode,idea&theme=dark" height="40"></td>
 </tr>
 </table>
-</td>
-<td width="15%" align="center">
-<img src="https://media1.tenor.com/m/YLlNpT32hkIAAAAd/natsuki-subaru-re-zero.gif" width="100%">
 </td>
 </tr>
 </table>
