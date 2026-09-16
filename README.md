@@ -39,10 +39,10 @@
  
 <table>
 <tr>
-<td width="20%" align="center">
-<img src="https://camo.githubusercontent.com/5dd5f9161f24a14c109e7c0387b5186b199b222431f9b4ed8f144306d2c8c8ef/68747470733a2f2f692e67697068792e636f6d2f75556e376a475732464e65595753463345552e676966" width="100%">
+<td width="15%" align="center">
+<img src="https://media1.tenor.com/m/Imb9Ta_m8ckAAAAd/subaru-re-zero-natsuki-subaru.gif" width="100%">
 </td>
-<td width="80%">
+<td width="70%">
 <table>
 <tr>
 <td align="right"><sub><b>Languages</b></sub></td>
@@ -62,8 +62,12 @@
 </tr>
 </table>
 </td>
+<td width="15%" align="center">
+<img src="https://media1.tenor.com/m/YLlNpT32hkIAAAAd/natsuki-subaru-re-zero.gif" width="100%">
+</td>
 </tr>
 </table>
+<br>
 **Data & Analytics** &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Advanced Excel &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; Machine Learning (foundations)
  
 </div>
