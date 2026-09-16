@@ -39,6 +39,12 @@
  
 <table>
 <tr>
+<td width="20%" align="center">
+<img src="https://camo.githubusercontent.com/5dd5f9161f24a14c109e7c0387b5186b199b222431f9b4ed8f144306d2c8c8ef/68747470733a2f2f692e67697068792e636f6d2f75556e376a475732464e65595753463345552e676966" width="100%">
+</td>
+<td width="80%">
+<table>
+<tr>
 <td align="right"><sub><b>Languages</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs,html,css&theme=dark" height="40"></td>
 </tr>
@@ -53,6 +59,9 @@
 <tr>
 <td align="right"><sub><b>Cloud &amp; Tools</b></sub></td>
 <td><img src="https://skillicons.dev/icons?i=azure,git,github,vscode,idea&theme=dark" height="40"></td>
+</tr>
+</table>
+</td>
 </tr>
 </table>
 **Data & Analytics** &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Advanced Excel &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; Machine Learning (foundations)
