@@ -39,11 +39,12 @@
  
 <table>
 <tr>
-<td align="center" valign="middle">
-<img src="https://camo.githubusercontent.com/5dd5f9161f24a14c109e7c0387b5186b199b222431f9b4ed8f144306d2c8c8ef/68747470733a2f2f692e67697068792e636f6d2f75556e376a475732464e65595753463345552e676966" width="160">
+<td align="center" valign="middle" width="220">
+<img src="https://camo.githubusercontent.com/5dd5f9161f24a14c109e7c0387b5186b199b222431f9b4ed8f144306d2c8c8ef/68747470733a2f2f692e67697068792e636f6d2f75556e376a475732464e65595753463345552e676966" width="100%">
+<p align="center">
 <sub><i>諦めなければ、道は必ず開ける</i></sub>
 <br><sub>"As long as I don't give up, a way forward always opens."</sub>
- 
+</p>
 </td>
 <td valign="middle">
 <table>
