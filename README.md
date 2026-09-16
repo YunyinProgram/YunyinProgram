@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mucho gusto me presenteo soy Manuel Fernando Joao Castro Picon
+# Nice to meet you, I am Manuel Fernando Joao Castro Picon
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&weight=600&size=22&duration=4000&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&height=90&lines=Software+Engineering+Student+%40+UPC;Full+Stack+Developer+%E2%80%94+Flutter+%2B+Spring+Boot;%E4%BD%95%E5%BA%A6%E3%81%A7%E3%82%82%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B%E3%81%B0%E3%81%84%E3%81%84;Lima%2C+Peru" alt="Typing SVG" />
 
@@ -12,18 +12,21 @@
  
 <table>
 <tr>
-<td width="40%">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlwZWo0bnp2aHFlMGY3bGxhdnE4MTVnY3lrdnhyZHR0dXpobTBrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fR5e1HZ5gvGQHsgS6y/giphy.gif" width="100%"><br>
-<img src="https://media1.tenor.com/m/GHupwWFlEOkAAAAd/sylphiette-greyrat-mushoku-tensei.gif" width="100%">
+<td width="55%">
+| Field | Detail |
+|---|---|
+| 🚀 **Study** | Software Engineering at UPC |
+| 💻 **Focus** | Full Stack Development (Flutter + Spring Boot) |
+| 🌐 **Drives me** | Building modern, functional interfaces |
+| 📚 **Right now** | Deepening Machine Learning and Cloud fundamentals |
+| 🎨 **Philosophy** | Clean code and good practices |
+| 🤝 **Looking for** | A professional internship, collaborating on real projects |
+ 
 </td>
-<td width="60%">
-Fourth-year Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**, based in Lima, Peru. My work centers on full stack development with **Flutter** and **Spring Boot**, complemented by a working knowledge of relational and non-relational databases, data analysis with **Power BI**, and an early exploration of Machine Learning and Cloud (Azure).
- 
+<td width="45%" align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlwZWo0bnp2aHFlMGY3bGxhdnE4MTVnY3lrdnhyZHR0dXpobTBrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fR5e1HZ5gvGQHsgS6y/giphy.gif" width="100%">
 *何度でも、やり直せばいい*
-<br><sub>"No matter how many times, I can simply start again." — the spirit of Re:Zero</sub>
- 
-*無職から始まっても、経験は積み重なる*
-<br><sub>"Even starting from nothing, experience still builds up." — the spirit of Mushoku Tensei</sub>
+<br><sub>"No matter how many times, I can simply start again."</sub>
  
 </td>
 </tr>
