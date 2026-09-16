@@ -1,40 +1,38 @@
 <div align="center">
 
-# Nice to meet you, I am Manuel Fernando Joao Castro Picon
+# Mucho gusto me presenteo soy Manuel Fernando Joao Castro Picon
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&weight=600&size=22&duration=4000&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&height=90&lines=Software+Engineering+Student+%40+UPC;Full+Stack+Developer+%E2%80%94+Flutter+%2B+Spring+Boot;%E4%BD%95%E5%BA%A6%E3%81%A7%E3%82%82%E3%82%84%E3%82%8A%E7%9B%B4%E3%81%9B%E3%81%B0%E3%81%84%E3%81%84;Lima%2C+Peru" alt="Typing SVG" />
 
-<br>
-
-<img src="https://i.giphy.com/6UgdeaZ7tIPMQbLGkm.gif" width="420">
-
-<sub><i>何度でも、やり直せばいい ― "No matter how many times, I can simply start again."</i></sub>
-
 </div>
 
 <br>
-
-<div align="center">
 
 ## About Me
 
-</div>
+<table>
+<tr>
+<td width="40%">
+<img src="https://i.giphy.com/6UgdeaZ7tIPMQbLGkm.gif" width="100%">
+</td>
+<td width="60%">
 
-<p align="center">
-I am a fourth-year Software Engineering student at <b>Universidad Peruana de Ciencias Aplicadas (UPC)</b>, based in Lima, Peru. My work centers on full stack development with <b>Flutter</b> and <b>Spring Boot</b>, complemented by a working knowledge of relational and non-relational databases, data analysis with <b>Power BI</b>, and an early exploration of Machine Learning and Cloud (Azure). I am currently seeking a professional internship where I can grow within a real development team.
-</p>
+Fourth-year Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**, based in Lima, Peru. My work centers on full stack development with **Flutter** and **Spring Boot**, complemented by a working knowledge of relational and non-relational databases, data analysis with **Power BI**, and an early exploration of Machine Learning and Cloud (Azure).
 
-<p align="center">
-<sub><i>異世界に転生しても、真面目にやることに変わりはない ― "Even reborn in another world, the way I work doesn't change."</i></sub>
-</p>
+I am currently seeking a professional internship where I can grow within a real development team.
+
+*何度でも、やり直せばいい*
+<br><sub>"No matter how many times, I can simply start again."</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
 ## Tech Stack
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs,html,css,flutter,spring,mysql,mongodb,azure,git,github,vscode,idea&theme=dark" />
 
@@ -46,18 +44,20 @@ I am a fourth-year Software Engineering student at <b>Universidad Peruana de Cie
 
 <br>
 
-<div align="center">
-
 ## Featured Project
 
-</div>
+<table>
+<tr>
+<td>
 
-<p align="center"><b>NeuroZen</b> — Mental Health Companion App</p>
-<p align="center"><code>Flutter</code> · <code>Spring Boot</code> · <code>Java</code> · <code>MySQL</code> · <code>REST API</code></p>
+**NeuroZen** — Mental Health Companion App
+<br>`Flutter` · `Spring Boot` · `Java` · `MySQL` · `REST API`
 
-<p align="center">
 Full stack development following the MVC pattern, including user authentication, a management module for available professionals, and an appointment-booking system connected to MySQL through a custom REST API.
-</p>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -74,6 +74,43 @@ Full stack development following the MVC pattern, including user authentication,
 
 <br>
 
+## Beyond Code
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://i.giphy.com/oCCpckAY9mHtCHr81l.gif" width="100%">
+</td>
+<td width="60%">
+
+**Mushoku Tensei**
+
+*無職から始まっても、経験は積み重なる*
+<br><sub>"Even starting from nothing, experience still builds up."</sub>
+
+A story about turning a fresh start into steady, quiet growth — a page I try to take from it myself.
+
+</td>
+</tr>
+<tr>
+<td width="40%">
+<img src="https://i.giphy.com/uUn7jGW2FNeYWSF3EU.gif" width="100%">
+</td>
+<td width="60%">
+
+**Re:Zero**
+
+*変わらない日常より、何度でも挑む物語が好きだ*
+<br><sub>"I prefer a story worth challenging again and again, over a life that never changes."</sub>
+
+Two of my favorite series, and a fitting mindset for debugging code until it finally works.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
 ## 2026 Goals
@@ -83,29 +120,6 @@ Full stack development following the MVC pattern, including user authentication,
 <p align="center">
 Deepen full stack development with Flutter and Spring Boot &nbsp;·&nbsp; Advance in Machine Learning and AI &nbsp;·&nbsp; Earn an Azure certification &nbsp;·&nbsp; Grow a portfolio of real projects &nbsp;·&nbsp; Secure a professional internship
 </p>
-
-<br>
-
-<div align="center">
-
-<img src="https://i.giphy.com/oCCpckAY9mHtCHr81l.gif" width="420">
-
-<sub><i>無職から始まっても、経験は積み重なる ― "Even starting from nothing, experience still builds up."</i></sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## Beyond Code
-
-<sub>Re:Zero &nbsp;·&nbsp; Mushoku Tensei</sub>
-
-<p><i>変わらない日常より、何度でも挑む物語が好きだ。</i><br>
-<sub>"I prefer a story worth challenging again and again, over a life that never changes."</sub></p>
-
-</div>
 
 <br>
 
