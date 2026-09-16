@@ -19,8 +19,6 @@
 <td width="60%">
 Fourth-year Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**, based in Lima, Peru. My work centers on full stack development with **Flutter** and **Spring Boot**, complemented by a working knowledge of relational and non-relational databases, data analysis with **Power BI**, and an early exploration of Machine Learning and Cloud (Azure).
  
-I am currently seeking a professional internship where I can grow within a real development team.
- 
 *何度でも、やり直せばいい*
 <br><sub>"No matter how many times, I can simply start again." — the spirit of Re:Zero</sub>
  
