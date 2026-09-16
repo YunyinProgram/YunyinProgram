@@ -12,28 +12,29 @@
  
 <table>
 <tr>
-<td width="55%">
-| Field | Detail |
-|---|---|
-| 🚀 **Study** | Software Engineering at UPC |
-| 💻 **Focus** | Full Stack Development (Flutter + Spring Boot) |
-| 🌐 **Drives me** | Building modern, functional interfaces |
-| 📚 **Right now** | Deepening Machine Learning and Cloud fundamentals |
-| 🎨 **Philosophy** | Clean code and good practices |
-| 🤝 **Looking for** | A professional internship, collaborating on real projects |
- 
+<td width="55%" valign="top">
+<table>
+<tr><th align="left">Field</th><th align="left">Detail</th></tr>
+<tr><td>🚀 <b>Study</b></td><td>Software Engineering at UPC</td></tr>
+<tr><td>💻 <b>Focus</b></td><td>Full Stack Development (Flutter + Spring Boot)</td></tr>
+<tr><td>🌐 <b>Drives me</b></td><td>Building modern, functional interfaces</td></tr>
+<tr><td>📚 <b>Right now</b></td><td>Deepening Machine Learning and Cloud fundamentals</td></tr>
+<tr><td>🎨 <b>Philosophy</b></td><td>Clean code and good practices</td></tr>
+<tr><td>🤝 <b>Looking for</b></td><td>A professional internship, collaborating on real projects</td></tr>
+</table>
 </td>
 <td width="45%" align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlwZWo0bnp2aHFlMGY3bGxhdnE4MTVnY3lrdnhyZHR0dXpobTBrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fR5e1HZ5gvGQHsgS6y/giphy.gif" width="100%">
-*何度でも、やり直せばいい*
-<br><sub>"No matter how many times, I can simply start again."</sub>
+<img src="https://media1.tenor.com/m/gN2eaA0V8ycAAAAd/rudeus-greyrat-fight.gif" width="100%">
+*積み重ねた努力が、魔法になる*
+<br><sub>"Effort, piled up over time, becomes magic."</sub>
  
 </td>
 </tr>
 </table>
+</table>
 <br>
 <div align="center">
-
+ 
 ## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs,html,css,flutter,spring,mysql,mongodb,azure,git,github,vscode,idea&theme=dark" />
