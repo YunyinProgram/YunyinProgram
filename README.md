@@ -36,15 +36,34 @@
 <div align="center">
  
 ## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs,html,css,flutter,spring,mysql,mongodb,azure,git,github,vscode,idea&theme=dark" />
-
+ 
+<sub><b>LANGUAGES</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=py,java,js,cpp,cs,html,css&theme=dark" />
+ 
 <br><br>
-
+ 
+<sub><b>FRAMEWORKS &amp; MOBILE</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,spring&theme=dark" />
+ 
+<br><br>
+ 
+<sub><b>DATABASES</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+ 
+<br><br>
+ 
+<sub><b>CLOUD &amp; TOOLS</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,idea&theme=dark" />
+ 
+<br><br>
+ 
 **Data & Analytics** &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Advanced Excel &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; Machine Learning (foundations)
-
+ 
 </div>
-
 <br>
 
 ## Featured Project
