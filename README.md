@@ -76,21 +76,20 @@ Full stack development following the MVC pattern, including user authentication,
 <br>
 
 ## Beyond Code
-
+ 
 <table>
 <tr>
 <td width="40%">
 <img src="https://media1.tenor.com/m/YLlNpT32hkIAAAAd/natsuki-subaru-re-zero.gif" width="100%">
 </td>
 <td width="60%">
-
 **Re:Zero**
-
+ 
 *変わらない日常より、何度でも挑む物語が好きだ*
 <br><sub>"I prefer a story worth challenging again and again, over a life that never changes."</sub>
-
+ 
 A fitting mindset for debugging code until it finally works.
-
+ 
 </td>
 </tr>
 <tr>
@@ -98,20 +97,17 @@ A fitting mindset for debugging code until it finally works.
 <img src="https://media1.tenor.com/m/XXV9tc0jOu8AAAAd/mushoku-tensei-rudeus-greyrat.gif" width="100%">
 </td>
 <td width="60%">
-
 **Mushoku Tensei**
-
+ 
 *人生は、何歳からでもやり直せる*
 <br><sub>"A life can be started over, no matter your age."</sub>
-
+ 
 A quiet reminder that a fresh start is never wasted time.
-
+ 
 </td>
 </tr>
 </table>
-
 <br>
-
 <div align="center">
 
 ## 2026 Goals
