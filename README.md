@@ -115,7 +115,7 @@ Full stack development following the MVC pattern, including user authentication,
 **Re:Zero**
  
 *"You're an amazing guy, Subaru Natsuki."*
-<br><sub>— Rem</sub>
+<br><sub>— Subaru Natsuki</sub>
  
 One of the most quietly powerful lines in the series — a reminder that persistence, even when unnoticed, is still worth something.
  
